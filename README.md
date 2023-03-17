@@ -25,7 +25,7 @@ The youtubevideos.ipynb script is used to obtain the latest video statistics fro
 ### Data Analysis
 The GraphingData.ipynb script is used to perform analysis on the data collected by the ScrapeOneBite.ipynb script. The script uses Python libraries such as pandas, numpy, and matplotlib to perform statistical analysis, generate graphs, and visualize the data in various ways.
 
-The script provides insights into the distribution of pizza restaurant ratings and the factors that influence ratings, such as location, restaurant type, and user reviews. The data analysis can help businesses in the food industry to make informed decisions about their products, marketing strategies, and operations.
+The script provides insights into the distribution of pizza restaurant ratings and the factors that influence ratings, such as location, restaurant type, and user reviews.
 
 ## Usage
 To use this project, you will need to have Python 3.x and the following libraries installed: requests, BeautifulSoup, pandas, numpy, googlemaps, google-auth, google-auth-oauthlib, google-auth-httplib2, and google-api-python-client.
